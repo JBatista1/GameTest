@@ -20,6 +20,7 @@
     {"name":"spr_ground_corner","order":1,"path":"sprites/spr_ground_corner/spr_ground_corner.yy",},
     {"name":"Object3","order":3,"path":"objects/Object3/Object3.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"Object4","order":4,"path":"objects/Object4/Object4.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"Sprite5","order":16,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
